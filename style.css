@@ -1,0 +1,98 @@
+body{
+   background-color: antiquewhite; 
+    
+   } 
+   
+   h1{
+    text-align: center;
+   }
+   #nonPrimi{
+    font-size: 25px;            
+     text-align: center;
+     color: #213644;
+
+   }
+.btn{
+    background-color: #041928;
+    color: white;
+    border: 0px;
+    border-radius: 5px;  
+
+}
+
+.btn:hover{
+    background-color: rgb(11, 38, 65);
+    color: white;
+    border-radius: 3px;    
+}
+#dsa{
+  text-align: center;
+}
+.npd{
+  text-align: center;
+  text-decoration: underline overline;
+}
+button{
+  padding: 10px;
+  font-size: 20px;
+}
+h4{
+  font-size: 25px;
+}
+p::selection{
+background-color: black;
+color: antiquewhite;
+font-size: 15px;
+}
+.hbtn{
+background-color: #213644;
+border-radius: 0px;
+padding: 15px;
+border: none;
+}
+.Home_ink{
+text-decoration:none;
+color: white;
+}
+ul{
+list-style-type: none;
+}
+.header{
+    background-color: #213644;
+    padding: 0px;
+    margin: 0px;
+    height: 60px;
+    width:100%;
+    margin-top: 0px;
+    position: fixed;
+
+}
+#dsa{
+    font-size: 40px;
+    padding: 0px;
+    margin: 0px;
+}
+*{
+    padding: 0px;
+    margin: 1px;
+}
+.im{
+    text-align: center;
+}
+button:hover{
+    background-color: #1693e728;
+}
+#aa{
+  margin-top: 63px;
+}
+#question{
+ font-size: large;
+ color: #041928;
+}
+.footer{
+  display: flex;
+  padding: 30px;
+  background-color: #041928;
+  color: white;
+  justify-content: right;
+}
